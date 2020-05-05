@@ -18,6 +18,7 @@ Para instalar:
 ```console
 pip install pipenv
 pipenv install --dev
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade de código:
