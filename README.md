@@ -9,7 +9,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.com/woscavalcante/libpythonpro.svg?branch=master)](https://travis-ci.com/woscavalcante/libpythonpro)
 [![Updates](https://pyup.io/repos/github/woscavalcante/libpythonpro/shield.svg)](https://pyup.io/repos/github/woscavalcante/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/woscavalcante/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/woscavalcante/libpythonpro/)
-[![codecov](https://codecov.io/gh/pythonprobr/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/pythonprobr/libpythonpro)
+[![codecov](https://codecov.io/gh/woscavalcante/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/woscavalcante/libpythonpro)
 
 Suportada versão 3 de Python
 
