@@ -112,10 +112,10 @@
         },
         "flake8": {
             "hashes": [
-                "sha256:6c1193b0c3f853ef763969238f6c81e9e63ace9d024518edc020d5f1d6d93195",
-                "sha256:ea6623797bf9a52f4c9577d780da0bb17d65f870213f7b5bcc9fca82540c31d5"
+                "sha256:12d05ab02614b6aee8df7c36b97d1a3b2372761222b19b58621355e82acddcff",
+                "sha256:78873e372b12b093da7b5e5ed302e8ad9e988b38b063b61ad937f26ca58fc5f0"
             ],
-            "version": "==3.8.1"
+            "version": "==3.9.0"
         },
         "importlib-metadata": {
             "hashes": [
