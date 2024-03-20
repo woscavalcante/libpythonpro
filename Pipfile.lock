@@ -118,11 +118,8 @@
             "version": "==3.8.1"
         },
         "importlib-metadata": {
-            "hashes": [
-                "sha256:2a688cbaa90e0cc587f1df48bdc97a6eadccdcd9c35fb3f976a09e3b5016d90f",
-                "sha256:34513a8a0c4962bc66d35b359558fd8a5e10cd472d37aec5f66858addef32c1e"
-            ],
-            "version": "==1.6.0"
+            "hashes": [],
+            "version": "==7.1.0"
         },
         "mccabe": {
             "hashes": [
